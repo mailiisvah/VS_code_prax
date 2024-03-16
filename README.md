@@ -28,3 +28,5 @@ docker build -t my/superset:duckdb
 docker run -d -p 8080:8088 -v $PWD:/data:rw -e "SUPERSET_SECRET_KEY=asdfghjkl" --name superset my/superset:duckdb
 
 Now we're learning about git and how git tracks file in our project folder.
+
+testib giti
